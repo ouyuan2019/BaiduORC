@@ -371,8 +371,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         // 请选择您的初始化方式
-        // initAccessToken();
-        initAccessTokenWithAkSk();
+         initAccessToken();
+//        initAccessTokenWithAkSk();
     }
 
     private boolean checkTokenStatus() {
